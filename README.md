@@ -15,5 +15,5 @@ while encoding essay, try to experiment with the max_features and n_grams parame
     - price
     - teacher_number_of_previously_posted_projects
 
-Set 1: categorical, numerical features + preprocessed_eassay (BOW)
-Set 2: categorical, numerical features + preprocessed_eassay (TFIDF)
+- Set 1: categorical, numerical features + preprocessed_eassay (BOW)
+- Set 2: categorical, numerical features + preprocessed_eassay (TFIDF)
